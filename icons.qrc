@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>encryption.png</file>
+        <file>encrypt.png</file>
+        <file>ver.png</file>
+        <file>key.png</file>
+        <file>verification.png</file>
+    </qresource>
+</RCC>
+    
